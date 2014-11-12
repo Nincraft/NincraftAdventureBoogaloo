@@ -7,8 +7,6 @@ Current API Versions
 - **AppleCore** v1.0.1
 - **AsieLib** v0.3.2
 - **bspkrs Core** v6.14
-- **CoFHCore** v3.0.0B6-32
-- **CookieCore** v1.3.0
 - **CoroUtil** v1.0
 - **Forge Multipart** v1.1.0.311
 - **Lunatrius Core** v1.1.2.14
@@ -52,6 +50,7 @@ Current Mod Versions
 - **Natura** VERSION NEEDED
 - **NEI Addons** v1.12.3.11
 - **NEI Plugins** v1.1.0.11
+- ~~**NetherOres** VERSION NEEDED~~ Maybe...
 - **Not Enough Items** v1.0.2.15
 - **Open Eye** v0.6
 - **Pam's HarvestCraft** v1.7.10c

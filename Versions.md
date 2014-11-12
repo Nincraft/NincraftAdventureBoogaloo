@@ -45,7 +45,6 @@ Current Mod Versions
 - **Glowstone Wire** v1.0.2.113
 - **Growthcraft** VERSION NEEDED
 - **Iguana's Tinker Tweaks** v2.0.6
-- **Infernal Mobs** v1.5.9
 - **Inventory Tweaks** v1.58 147
 - **MineTweaker** v3.0.9b
 - **Modpack Tweaks** v1.2.0-21
@@ -67,7 +66,6 @@ Current Mod Versions
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
 - **Tinkers' Construct** v1.7.1c
-- **Tinkers' Steelworks** v1.0.6
 - **Too Much Loot** v3.0.1.B22
 - ~~**Underground Biomes Constructs** v0.6h11~~ Maybe...
 - **WAILA** v1.5.5

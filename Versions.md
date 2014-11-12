@@ -43,6 +43,7 @@ Current Mod Versions
 - **Fortune Ores** VERSION NEEDED
 - **Garden Stuff** v1.2.1
 - **Glowstone Wire** v1.0.2.113
+- **Growthcraft** VERSION NEEDED
 - **Iguana's Tinker Tweaks** v2.0.6
 - **Infernal Mobs** v1.5.9
 - **Inventory Tweaks** v1.58 147

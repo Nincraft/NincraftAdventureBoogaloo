@@ -31,6 +31,7 @@ Current Mod Versions
 - **Bow Infinity Fix** rv0
 - **Carpenter's Blocks** v3.3.0
 - **Chisel** v1.5.7
+- **CodeChickenCore** v1.0.4.29
 - **Custom Ore Gen** v1.2.13
 - **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie** beta v2.0
@@ -46,15 +47,17 @@ Current Mod Versions
 - **Iguana's Tinker Tweaks** v2.0.6
 - **Inventory Tweaks** v1.58 147
 - **Iron Chest** v6.0.62.742
+- **IvToolkit** v1.0.1
 - **Metallurgy** v4.0.4.43
 - **MineTweaker** v3.0.9b
+- **MobiusCore** v1.2.3
 - **Modpack Tweaks** v1.2.0-21
 - **ModTweaker** v0.5d
 - **Natura** v2.2.0 b1
 - **NEI Addons** v1.12.3.11
 - **NEI Plugins** v1.1.0.11
 - ~~**NetherOres** VERSION NEEDED~~ Maybe...
-- **Not Enough Items** v1.0.3.49
+- **Not Enough Items** v1.0.3.67
 - **Open Eye** v0.6
 - **Pam's HarvestCraft** v1.7.10b
 - **Pam's Temperate Plants** v1.7.2b

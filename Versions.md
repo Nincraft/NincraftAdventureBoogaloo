@@ -6,14 +6,15 @@ Current API Versions
 =
 - **AppleCore** v1.0.1
 - **AsieLib** v0.3.2
-- **bspkrs Core** v6.14
-- **CoroUtil** v1.0
-- **Forge Multipart** v1.1.0.311
+- **bspkrs Core** v6.15
+- **CoroUtil** v1.1
+- **Forge Multipart** v1.1.0.314
 - **Lunatrius Core** v1.1.2.14
 - **Mantle** v0.3.2
-- **INPureCore** v1.0.0B2-4
-- **ServerTools-BACKUP** v2.2.0.21
-- **ServerTools-CORE** v2.2.0.73
+- **Metallurgy Core** v4.0.3.11
+- **INPureCore** v1.0.0B7-19
+- **ServerTools-BACKUP** v2.2.0.23
+- **ServerTools-CORE** v2.2.0.78
 
 Current Mod Versions
 =
@@ -21,47 +22,49 @@ Current Mod Versions
 - **Antique Atlas** v4.0.1a
 - **Armor Status HUD** v1.27
 - **Better Foliage** v1.0.3
-- **Better Storage** v0.10.3.115
+- **Better Storage** v0.10.4.117
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.8.2
 - **BiblioWoods (BoP)** v1.9
-- **BiblioWoods (Natura)** VERSION NEEDED
+- **BiblioWoods (Natura)** v1.5
 - **Biomes O' Plenty** v2.1.0.1004
 - **Bow Infinity Fix** rv0
 - **Carpenter's Blocks** v3.3.0
 - **Chisel** v1.5.7
-- **Custom Ore Gen** VERSION NEEDED
+- **Custom Ore Gen** v1.2.13
 - **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie** beta v2.0
-- **Dense Ores** VERSION NEEDED
-- **Direction HUD** v1.23
+- **Dense Ores** v1.4.2
+- **Direction HUD** v1.24
 - **Dynamic Lights** v1.7.10
-- **Fast Leaf Decay** VERSION NEEDED
+- **Fast Leaf Decay** v1.0
 - **FMPIntegration** v1.0
-- **Fortune Ores** VERSION NEEDED
+- **Fortune Ores** v2.0.4
 - **Garden Stuff** v1.2.1
 - **Glowstone Wire** v1.0.2.113
-- **Growthcraft** VERSION NEEDED
+- **Growthcraft** v2.1.0a
 - **Iguana's Tinker Tweaks** v2.0.6
 - **Inventory Tweaks** v1.58 147
+- **Iron Chest** v6.0.62.742
+- **Metallurgy** v4.0.4.43
 - **MineTweaker** v3.0.9b
 - **Modpack Tweaks** v1.2.0-21
 - **ModTweaker** v0.5d
-- **Natura** VERSION NEEDED
+- **Natura** v2.2.0 b1
 - **NEI Addons** v1.12.3.11
 - **NEI Plugins** v1.1.0.11
 - ~~**NetherOres** VERSION NEEDED~~ Maybe...
-- **Not Enough Items** v1.0.2.15
+- **Not Enough Items** v1.0.3.49
 - **Open Eye** v0.6
-- **Pam's HarvestCraft** v1.7.10c
+- **Pam's HarvestCraft** v1.7.10b
 - **Pam's Temperate Plants** v1.7.2b
-- **Ping** VERSION NEEDED
-- **Poor Ores** VERSION NEEDED
-- **Recurrent Complex** VERSION NEEDED
+- **Ping** v1.0.2.B6
+- **Poor Ores** v1.3.1
+- **Recurrent Complex** v0.9.3
 - **Sound Filters** v0.7
-- **Special Mobs** v3.0.3
+- **Special Mobs** v3.0.2
 - **Stackie** v1.5.1.28
-- **Status Effect HUD** v1.26
+- **Status Effect HUD** v1.27
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
 - **Tinkers' Construct** v1.7.1c

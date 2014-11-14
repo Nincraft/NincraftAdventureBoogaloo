@@ -17,8 +17,13 @@ var flintNSteel     = <minecraft:flint_and_steel>;
 var anvil           = <minecraft:anvil>;
 var steelIngot      = <ore:ingotSteel>;
 var steelBlock      = <ore:blockSteel>;
+var flour           = <ore:dustWheat>;
+var milk            = <ore:listAllmilk>;
+var sugar           = <ore:Sugar>;
+var egg             = <ore:listAllegg>;
+var cake            = <minecraft:cake>;
 
-var moltenSteel        = <liquid:steel.molten>;
+var moltenSteel     = <liquid:steel.molten>;
 
 # ORE DICTIONARY
 #----------------
@@ -35,6 +40,18 @@ recipes.removeShaped(bread);
 
 # Clay Block -> 4 Clay
 recipes.addShapeless(clayBall * 4, [clayBlock]);
+
+# Cake
+#-------------------------
+# [ Milk,  Milk,  Milk  ]
+# [ Sugar, Egg,   Sugar ]
+# [ Flour, Flour, Flour ]
+# ------------------------
+recipes.remove(cake;
+recipes.addShaped(cake, [
+    [milk,  milk,  milk], 
+    [sugar, egg,   sugar], 
+    [flour, flour, flour]]);
 
 # Replace Iron With Steel
 #-------------------------

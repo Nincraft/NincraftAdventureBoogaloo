@@ -1,3 +1,7 @@
+# MOD IMPORTS
+#-------------
+import mods.tconstruct.Smeltery;
+
 # COMMON VARIABLES
 #------------------
 var torchWood       = <minecraft:torch>;
@@ -13,6 +17,8 @@ var flintNSteel     = <minecraft:flint_and_steel>;
 var anvil           = <minecraft:anvil>;
 var steelIngot      = <ore:ingotSteel>;
 var steelBlock      = <ore:blockSteel>;
+
+var moltenSteel        = <liquid:steel.molten>;
 
 # ORE DICTIONARY
 #----------------
@@ -35,6 +41,7 @@ recipes.addShapeless(clayBall * 4, [clayBlock]);
 
 # Bucket
 recipes.remove(bucket);
+Smeltery.addMelting(bucket, moltenSteel * 432, 700, <TConstruct:MetalBlock:9>);
 recipes.addShaped(bucket, [
     [steelIngot, null,       steelIngot],
     [null,       steelIngot, null      ]]);

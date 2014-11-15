@@ -162,7 +162,7 @@ recipes.remove(aluminumBrassDust);
 recipes.addShapeless(aluminumBrassDust.items[0] * 9, [copperDust, copperDust, copperDust, copperDust,
                                                       copperDust, copperDust, copperDust, copperDust,
                                                       aluminumDust]);
-                                             
+
 # Steel Blend: 8 Iron, 1 Manganese
 recipes.remove(steelDust);
 recipes.addShapeless(steelDust.items[0] * 9, [ironDust, ironDust, ironDust, ironDust,

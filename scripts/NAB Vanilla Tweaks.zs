@@ -47,7 +47,7 @@ recipes.addShapeless(clayBall * 4, [clayBlock]);
 # [ Sugar, Egg,   Sugar ]
 # [ Flour, Flour, Flour ]
 # ------------------------
-recipes.remove(cake;
+recipes.remove(cake);
 recipes.addShaped(cake, [
     [milk,  milk,  milk], 
     [sugar, egg,   sugar], 

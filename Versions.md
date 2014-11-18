@@ -49,6 +49,7 @@ Current Mod Versions
 - **Iron Chest** v6.0.62.742
 - **IvToolkit** v1.0.1
 - **Metallurgy** v4.0.4.43
+- **Millenaire** v6.0.0
 - **MineTweaker** v3.0.9b
 - **MobiusCore** v1.2.3
 - **Modpack Tweaks** v1.2.0-21

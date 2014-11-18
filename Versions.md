@@ -69,6 +69,7 @@ Current Mod Versions
 - **Stackie** v1.5.1.28
 - **Status Effect HUD** v1.27
 - **Statues** v2.1.4
+- **The Camping Mod** v2.1
 - **TiCTooltips** v1.1.11b
 - **Tinkers' Construct** v1.7.1c
 - **Too Much Loot** v3.0.1.B22

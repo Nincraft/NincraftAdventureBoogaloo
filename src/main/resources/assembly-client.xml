@@ -31,5 +31,9 @@
             <directory>scripts</directory>
             <outputDirectory>/scripts</outputDirectory>
         </fileSet>
+        <fileSet>
+        	<directory>millenaire</directory>
+        	<outputDirectory>mods</outputDirectory>
+        </fileSet>
     </fileSets>
 </assembly>

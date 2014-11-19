@@ -16,6 +16,10 @@ screenshots/
 stats/
 betterrecords/libs
 betterrecords/localLibrary.json
+millenaire/millenaire/languages
+millenaire/millenaire/cultures
+millenaire/millenaire/goals
+millenaire/millenaire/quests
 
 *.lck
 *.rar

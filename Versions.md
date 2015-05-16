@@ -1,12 +1,12 @@
 Current Forge Version
 =
-**Forge** v10.13.2.1232
+**Forge** v10.13.3.1403
 
 Current API Versions
 =
 - **AppleCore** v1.0.1
-- **AsieLib** v0.3.2
-- **bspkrs Core** v6.15
+- **AsieLib** v0.4.0
+- **bspkrs Core** v6.16
 - **CoroUtil** v1.1
 - **Forge Multipart** v1.1.0.314
 - **Lunatrius Core** v1.1.2.14
@@ -20,22 +20,22 @@ Current Mod Versions
 =
 - **Admin Command Toolbox** v0.0.2a
 - **Antique Atlas** v4.0.1a
-- **Armor Status HUD** v1.27
-- **Better Foliage** v1.0.3
-- **Better Storage** v0.10.4.117
+- **Armor Status HUD** v1.28
+- **Better Foliage** v1.0.12
+- **Better Storage** v0.13.1.126
 - **Better Title Screen** v1.1
-- **BiblioCraft** v1.8.2
+- **BiblioCraft** v1.10.4
 - **BiblioWoods (BoP)** v1.9
 - **BiblioWoods (Natura)** v1.5
 - **Biomes O' Plenty** v2.1.0.1004
 - **Bow Infinity Fix** rv0
-- **Carpenter's Blocks** v3.3.0
-- **Chisel** v1.5.7
+- **Carpenter's Blocks** v3.3.6
+- **Chisel 2** v2.3.10.37
 - **CodeChickenCore** v1.0.4.29
 - **Custom Ore Gen** v1.2.13
 - **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie** beta v2.0
-- **Dense Ores** v1.4.2
+- **Dense Ores** v1.6.2
 - **Direction HUD** v1.24
 - **Dynamic Lights** v1.7.10
 - **Fast Leaf Decay** v1.0

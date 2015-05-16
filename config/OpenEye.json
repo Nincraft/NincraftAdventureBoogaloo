@@ -24,8 +24,8 @@
         },
         "tags": {
             "value": [
-                "NAB",
-                "NAB ${project.version}"]
+                "${project.artifactId}",
+                "${project.artifactId} ${project.version}"]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
